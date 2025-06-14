@@ -1046,7 +1046,7 @@ function showSuccessNotification(message) {
   closeBtn.style.fontSize = '1.2rem';
 }
 
-// 初始化
+// 初始化11001001
 document.addEventListener('DOMContentLoaded', initialize);
   </script>
 </body>
